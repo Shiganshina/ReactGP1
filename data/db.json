@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Title1",
+      "body": "RandomText1",
+      "author": "a",
+      "id": 1
+    },
+    {
+      "title": "Title2",
+      "body": "RandomText2",
+      "author": "b",
+      "id": 2
+    },
+    {
+      "title": "Title3",
+      "body": "RandomText3",
+      "author": "b",
+      "id": 3
+    },
+    {
+      "title": "Title4",
+      "body": "RandomText4",
+      "author": "A",
+      "id": 4
+    }
+  ]
+}
